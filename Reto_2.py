@@ -11,7 +11,7 @@ def sumarNumeros(a, b):
     return f"El resultado de la suma es: {a+b} SW"
 
 
-
+#Datos de prueba
 parametros = [(5, 3), (-10, 4), (0, 0), (123, 877), (5.5, 3), ("10", 2), (8, None), (True, 1), ([], {})]
 
 for p in parametros:
